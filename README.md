@@ -7,3 +7,5 @@ https://training.dfirdiva.com
 
 https://blueteamcon.com/con-history/2021/2021-schedule/
 
+https://www.darkreading.com/vulnerabilities-threats/top-5-skills-modern-soc-teams-need-to-succeed
+
