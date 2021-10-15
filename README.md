@@ -16,3 +16,5 @@ https://community.idera.com/database-tools/powershell/powertips/b/tips/posts/sor
 https://github.com/emalderson/ThePhish
 
 https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347
+
+https://campbell.scot/the-big-comparison-of-defender-for-endpoint-features-by-operating-system/
