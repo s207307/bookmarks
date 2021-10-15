@@ -14,3 +14,5 @@ https://www.spiderfoot.net/top-5-osint-sources-for-threat-intelligence/
 https://community.idera.com/database-tools/powershell/powertips/b/tips/posts/sort-ipv4-addresses-correctly
 
 https://github.com/emalderson/ThePhish
+
+https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347
