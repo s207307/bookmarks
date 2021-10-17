@@ -20,3 +20,5 @@ https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-int
 https://campbell.scot/the-big-comparison-of-defender-for-endpoint-features-by-operating-system/
 
 https://github.com/microsoft/MSTIC-Sysmon
+
+https://www.osintdojo.com/resources/#dark_web
