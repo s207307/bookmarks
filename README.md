@@ -22,3 +22,5 @@ https://campbell.scot/the-big-comparison-of-defender-for-endpoint-features-by-op
 https://github.com/microsoft/MSTIC-Sysmon
 
 https://www.osintdojo.com/resources/#dark_web
+
+https://github.com/activecm
