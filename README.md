@@ -24,3 +24,5 @@ https://github.com/microsoft/MSTIC-Sysmon
 https://www.osintdojo.com/resources/#dark_web
 
 https://github.com/activecm
+
+https://github.com/mdecrevoisier/Windows-auditing-mindmap
