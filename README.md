@@ -34,3 +34,5 @@ https://www.sans.org/posters/?per-page=100
 https://cloud-skills.dev/
 
 https://sector035.nl/
+
+https://start.me/p/EL84Km/cse-utopia
