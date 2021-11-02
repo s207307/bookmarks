@@ -36,3 +36,5 @@ https://cloud-skills.dev/
 https://sector035.nl/
 
 https://start.me/p/EL84Km/cse-utopia
+
+https://www.microsoft.com/insidetrack/blog/how-microsoft-narrows-the-threat-funnel-on-over-600-billion-monthly-security-events/
