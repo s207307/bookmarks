@@ -40,3 +40,7 @@ https://start.me/p/EL84Km/cse-utopia
 https://www.microsoft.com/insidetrack/blog/how-microsoft-narrows-the-threat-funnel-on-over-600-billion-monthly-security-events/
 
 https://github.com/ahmedkhlief?tab=repositories
+
+https://www.linkedin.com/pulse/gvnshtn-reading-list-references-gavin-ashton/
+
+
