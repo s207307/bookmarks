@@ -43,4 +43,6 @@ https://github.com/ahmedkhlief?tab=repositories
 
 https://www.linkedin.com/pulse/gvnshtn-reading-list-references-gavin-ashton/
 
+https://ka4n6.com/resources/reso02.html
+
 
