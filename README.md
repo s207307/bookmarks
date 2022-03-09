@@ -47,5 +47,5 @@ https://ka4n6.com/resources/reso02.html
 
 https://cvetrends.com/
 
-
+https://github.com/cipher387/osint_stuff_tool_collection
 
