@@ -56,3 +56,6 @@ https://github.com/RomaissaAdjailia/MindMaps/blob/main/SPLUNK/Splunk%20Fundament
 https://github.com/digitalisx/awesome-memory-forensics
 
 https://dfircheatsheet.github.io/
+
+https://hausec.com/pentesting-cheatsheet/
+
