@@ -59,3 +59,7 @@ https://dfircheatsheet.github.io/
 
 https://hausec.com/pentesting-cheatsheet/
 
+https://github.com/fr0gger/Awesome_Malware_Techniques
+
+
+
