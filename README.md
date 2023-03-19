@@ -61,5 +61,6 @@ https://hausec.com/pentesting-cheatsheet/
 
 https://github.com/fr0gger/Awesome_Malware_Techniques
 
+https://github.com/Ignitetechnologies/Mindmap/tree/main/Tools
 
 
